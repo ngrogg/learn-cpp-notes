@@ -1,4 +1,4 @@
-# Chapter 0
+# Chapter 0: Introduction/Getting Started
 
 ## Code
 * **0.7 Compiling your first program**, Hello World.

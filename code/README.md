@@ -14,4 +14,5 @@ For best results when compiling code from this repo use the following syntax: <b
 `g++ -Wall -Weffc++ -Wextra -Wconversion -Wsign-conversion -std=c++20 FILE.cpp -o FILE.out`
 
 ## Chapters
-* **Chapter 0:** Introduction/Getting Started. Basics of C++, setting up an IDE, testing an IDE and getting environment information.
+* **Chapter 0:** Introduction/Getting Started. Setting up an IDE, testing an IDE and getting environment information.
+* **Chapter 1:** C++ Basics. Comments, variables, outputting to console.
